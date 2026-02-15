@@ -1,14 +1,8 @@
-import { useState } from 'react'
-import './App.css'
+import Inputs from './components/inputs.jsx';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-     
-    </>
-  )
+  return <Inputs />;
 }
 
-export default App
+export default App;
