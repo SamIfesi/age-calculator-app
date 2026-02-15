@@ -1,4 +1,4 @@
-import Inputs from './components/inputs.jsx';
+import Inputs from './components/input.jsx';
 import './App.css';
 
 function App() {
