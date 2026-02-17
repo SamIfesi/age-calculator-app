@@ -1,4 +1,4 @@
-import './input.css';
+import './InputFields.css';
 
 export default function Inputs() {
   return (
